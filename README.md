@@ -19,7 +19,7 @@
 
 ## Overview
 
-An airdrop is an applicawhere a set number are able to claim a amn today's used to distribute tokens to an application's user base that has previously interacted with their project.
+An airdrop is an applicawhere a set number are able to claim a amn o distribute tokens to an application's user base that has previously interacted with their project.
 
 In oerifiably prove that a user has a claim to an airdrop anpensive transaction of storing every address on chain, a Merkle Proof is used. By storing the Merkle root, a single `b256` hash, the airdrop application can cryptographically prove a user's validity to their claim.
 
